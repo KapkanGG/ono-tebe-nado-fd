@@ -243,9 +243,7 @@ article {
 }
 
 .about__column {
-	display: flex;
 	flex-direction: column;
-	gap: 24px;
 	padding-top: 133px;
 }
 
