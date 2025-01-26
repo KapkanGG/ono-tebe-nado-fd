@@ -94,7 +94,7 @@ p {
 	display: block;
 	text-align: end;
 }
-
+/*не грузит коммит*/
 .no-letter-spacing {
 	letter-spacing: 0;
 }
