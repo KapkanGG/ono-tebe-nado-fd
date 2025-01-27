@@ -235,11 +235,12 @@ article {
 }
 
 .about__logo-image {
-	width: 142px;
-	height: 113px;
+	width: 148px;
+	height: 114px;
 }
 
 .about__title {
+	margin-top: 3px;
 	font-weight: 700;
 	font-size: 40px;
 	line-height: 47px;
@@ -263,7 +264,6 @@ article {
 }
 
 .footer {
-	min-height: 180px;
 	display: grid;
 	grid-template-columns: 1fr 1fr 1fr;
 	padding: 0 50px 82px;
@@ -285,6 +285,7 @@ article {
 	display: grid;
 	justify-items: center;
 	justify-self: center;
+	font-weight: 400;
 	font-size: 18px;
 	line-height: 21px;
 	text-underline-offset: 4px;
